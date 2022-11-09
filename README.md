@@ -1,4 +1,7 @@
 # whatdidyoudo
+
+![Uploading 198930595-030165c4-727e-4a36-86ce-d399da2ba9e3.png…]()
+
 - This project aims to infer the bug reproduction steps from Visual Contents.
 - All you have to do is only to provide two images (e.g., images just before and after the issue occured).
 - From buttons which is extracted from the former image with [Yolov5](https://github.com/ultralytics/yolov5/releases/tag/v6.2) object detection algorithm, this tool answer the most relevant one to the content of the latter image using [BERT](https://github.com/UKPLab/sentence-transformers).
