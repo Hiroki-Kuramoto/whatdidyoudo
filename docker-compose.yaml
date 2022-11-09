@@ -1,0 +1,10 @@
+version: '3.9'
+services:
+  python3.9:
+    restart: always
+    build: .
+    container_name: 'python3.9'
+    working_dir: '/root/src'
+    tty: true
+    volumes:
+      - ./src:/root/src

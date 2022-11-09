@@ -1,0 +1,2 @@
+src/model/weights/*.pt filter=lfs diff=lfs merge=lfs -text
+src/model/sentenceTransformer/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
