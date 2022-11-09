@@ -1,6 +1,7 @@
 # whatdidyoudo
 
-![Uploading 198930595-030165c4-727e-4a36-86ce-d399da2ba9e3.png…]()
+<img width="1080" alt="whatdidyoudo" src="https://user-images.githubusercontent.com/68832594/200877184-047a11f2-a0e5-4746-a310-c436759d3e9c.png">
+
 
 - This project aims to infer the bug reproduction steps from Visual Contents.
 - All you have to do is only to provide two images (e.g., images just before and after the issue occured).
